@@ -1,2 +1,6 @@
 def solution(message):
-    return len(message)*2
+    answer = len(message)*2
+    # for i in len(message):
+        
+    
+    return answer
